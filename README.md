@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aigonline
--  I’m interested in Data Science, Full stack DevelopmentGraphics design, Cyber Security and all things tech
+-  I’m interested in Data Science, Full stack Development,Graphics design, Cyber Security and all things tech
 - 🌱 I’m currently learning Javascript and data analytics
 - 💞️ I’m looking to collaborate on front end projects
 - 📫 How to reach me @aliyuib88@gmail.com
