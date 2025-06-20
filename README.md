@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aigonline
 -  I’m interested in Data Science, Full stack Development,Graphics design, Cyber Security and all things tech
-- 🌱 I’m currently learning Javascript and data analytics
-- 💞️ I’m looking to collaborate on front end projects
+- 🌱 I’m currently active as a Data Analyst and Full Stack Developer
+- 💞️ I’m looking to collaborate on interesting and impactful projects
 - 📫 How to reach me @aliyuib88@gmail.com
 - ⚡ Fun fact: Some cars have travelled round the earth atleast 3 times
 
