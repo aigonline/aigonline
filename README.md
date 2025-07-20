@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aliyu Ibrahim
+# 👋 Hi, I'm Aliyu Garba
 
 I'm a **Full-Stack Web Developer** and **Data Analyst** passionate about building scalable web apps and solving real-world problems with code. With 2+ years of hands-on experience, I’ve worked across startups, freelance gigs, and educational platforms — taking ideas from zero to deployment.
 
