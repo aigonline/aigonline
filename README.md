@@ -17,10 +17,16 @@ I'm a **Full-Stack Web Developer** and **Data Analyst** passionate about buildin
 
 ## 🚀 Featured Projects
 
-### 🧠 **ShareHub** – Resource Sharing Platform  
+
+### 🧠 **ShareHub** – Resource Sharing Platform  - (in development)
 A full-stack platform where students upload, preview, comment on, and manage educational resources.  
 **Stack:** Node.js, Express, MongoDB, HTML/CSS/JS  
 **Features:** JWT auth, comments, file uploads, real-time updates, search/filter, profile management
+
+### 🎨 **Blueprint** – AI-Powered Design Tool  - (in development)
+An intelligent design platform that lets users generate stunning graphics from text prompts using generative AI.  
+**Stack:** Next.js, React, Tailwind CSS, ShadCN UI, Genkit (Google Gemini), Firebase Auth  
+**Features:** AI layout generation, dynamic canvas, template & element libraries, JSON export, secure auth
 
 ### 📈 **StartupConnect** – Startup-Investor Matching Platform  
 Connects startups with investors using VC-inspired logic to improve fundraising access.  
@@ -32,10 +38,15 @@ A multilingual education platform focused on Hausa language support and resource
 **Stack:** HTML/JS, Tailwind, Mongo DB, Node.js, REST APIs  
 **Features:** Auth, course management, assignments, discussions, Hausa localization
 
-### 🛒 **Ebay Clone**  
+### 💡 CodePilot – AI Development Assistant  (in development)
+An intelligent coding assistant that transforms natural language prompts into high-quality, multi-language code snippets in real-time.  
+**Stack:** Next.js (App Router), React, Tailwind CSS, ShadCN UI, Genkit (Google Gemini)  
+**Features:** AI code generation, real-time streaming output, interactive preview, multi-language support, snippet history, modern SaaS UI
+
+### 🛒 **Ebay Clone**  - (in development)
 Built a complete e-commerce backend with product management, orders, and secure APIs.  
-**Stack:** Node.js, Express, Supabase   
-**Frontend:** Next.js, Tailwind CSS  
+**Stack:** Node.js, Express, Supabase, PostGreSQL   
+**Frontend:** Next.js, Tailwind CSS, ShadCN UI 
 **Features:** Supabase Auth, cart system, admin controls
 
 ### 📊 **Real Estate & Weather Prediction ML Projects**  
