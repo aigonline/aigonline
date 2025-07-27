@@ -7,9 +7,9 @@ I'm a **Full-Stack Web Developer** and **Data Analyst** passionate about buildin
 ## 💻 What I Do
 
 - **Frontend:** HTML, CSS, Tailwind, JavaScript, React, Vue, Next.js  
-- **Backend:** Node.js, Express, Supabase, Flask, REST APIs  
+- **Backend:** Node.js, Express, Python (Flask), REST APIs  
 - **Database:** MongoDB, PostgreSQL, MySQL  
-- **Data:** Python (Pandas, NumPy, Seaborn), Excel, Power BI, Tableau, R, Google BigQuery  
+- **Data:** Python (Pandas, NumPy, Seaborn), Excel, Power BI, Tableau, R  
 - **Auth & DevOps:** JWT, bcrypt, Supabase Auth, Render, Git & GitHub  
 - **Extras:** UI/UX (canva, Moqups), Basic CMS (wordpress), Vite, Webpack
 
@@ -25,7 +25,7 @@ A full-stack platform where students upload, preview, comment on, and manage edu
 
 ### 🎨 **Blueprint** – AI-Powered Design Tool  - (in development)
 An intelligent design platform that lets users generate stunning graphics from text prompts using generative AI.  
-**Stack:** Next.js, React, Tailwind CSS, ShadCN UI, Genkit (Google Gemini), Firebase Auth  
+**Stack:** Next.js, React, Tailwind CSS, ShadCN UI, Genkit (Google Gemini) 
 **Features:** AI layout generation, dynamic canvas, template & element libraries, JSON export, secure auth
 
 ### 📈 **StartupConnect** – Startup-Investor Matching Platform  
@@ -40,14 +40,14 @@ A multilingual education platform focused on Hausa language support and resource
 
 ### 💡 CodePilot – AI Development Assistant  (in development)
 An intelligent coding assistant that transforms natural language prompts into high-quality, multi-language code snippets in real-time.  
-**Stack:** Next.js (App Router), React, Tailwind CSS, ShadCN UI, Genkit (Google Gemini)  
+**Stack:** Next.js, React, Tailwind CSS, ShadCN UI, Genkit (Google Gemini)  
 **Features:** AI code generation, real-time streaming output, interactive preview, multi-language support, snippet history, modern SaaS UI
 
 ### 🛒 **Ebay Clone**  - (in development)
 Built a complete e-commerce backend with product management, orders, and secure APIs.  
-**Stack:** Node.js, Express, Supabase, PostGreSQL   
+**Stack:** Node.js, Express, MongoDB   
 **Frontend:** Next.js, Tailwind CSS, ShadCN UI 
-**Features:** Supabase Auth, cart system, admin controls
+**Features:** cart system, Bidding, Watchlisting, etc
 
 ### 📊 **Real Estate & Weather Prediction ML Projects**  
 Python-based analysis and prediction models using real-world datasets.  
