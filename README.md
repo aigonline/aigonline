@@ -60,7 +60,7 @@ Python-based analysis and prediction models using real-world datasets.
 - 🎓 IBM & Google Data Analytics/Python Certs  
 - 💼 Galaxy Backbone (IT Intern, 3 months)  
 - 💼 ITExperience Inc (Data Analyst Intern, 9 months)  
-- 📚 BSc in Computer Science – First Class 
+- 📚 BSc in Computer Science
 - 📚 Professional Diploma in Data Analytics
 ---
 
