@@ -10,7 +10,8 @@ I'm a **Full-Stack Developer** and **Data Analyst** passionate about building sc
 - **Backend:** Node.js, Express, Python (Flask), Supabase, REST APIs, GraphQL
 - **Database:** MongoDB, PostgreSQL, MySQL  
 - **Data:** Python (Pandas, NumPy, Seaborn), Excel, Power BI, Tableau, R  
-- **Auth & DevOps:** JWT, bcrypt, Supabase Auth, Render, Git & GitHub  
+- **Auth:** JWT, bcrypt, Supabase Auth, 
+- **CI/CD:** Render, vercel, CI/CD via Github Actions
 - **Extras:** UI/UX (canva, Moqups), Basic CMS (wordpress), Vite, Webpack
 
 ---
