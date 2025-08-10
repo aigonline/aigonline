@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Aliyu Garba
 
-I'm a **Full-Stack Web Developer** and **Data Analyst** passionate about building scalable web apps and solving real-world problems with code. With 3+ years of hands-on experience, I’ve worked on multiple projects, taking ideas from zero to deployment.
+I'm a **Full-Stack Developer** and **Data Analyst** passionate about building scalable web apps and solving real-world problems with code. With 3+ years of hands-on experience, I’ve worked on multiple projects, taking ideas from zero to deployment.
 
 ---
 
 ## 💻 What I Do
 
 - **Frontend:** HTML, CSS, Tailwind, JavaScript, React, Vue, Next.js  
-- **Backend:** Node.js, Express, Python (Flask), REST APIs  
+- **Backend:** Node.js, Express, Python (Flask), Supabase, REST APIs, GraphQL
 - **Database:** MongoDB, PostgreSQL, MySQL  
 - **Data:** Python (Pandas, NumPy, Seaborn), Excel, Power BI, Tableau, R  
 - **Auth & DevOps:** JWT, bcrypt, Supabase Auth, Render, Git & GitHub  
@@ -45,9 +45,9 @@ An intelligent coding assistant that transforms natural language prompts into hi
 
 ### 🛒 **Ebay Clone**  - (in development)
 Built a complete e-commerce backend with product management, orders, and secure APIs.  
-**Stack:** Node.js, Express, MongoDB   
+**Stack:** Supabase, Supabase Auth, PostgreSQL DB, Payment API   
 **Frontend:** Next.js, Tailwind CSS, ShadCN UI 
-**Features:** cart system, Bidding, Watchlisting, etc
+**Features:** cart system, Bidding, Watchlisting, Checkout etc
 
 ### 📊 **Real Estate & Weather Prediction ML Projects**  
 Python-based analysis and prediction models using real-world datasets.  
