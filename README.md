@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aliyu Garba
 
-I'm a **Full-Stack Developer** and **Data Analyst** passionate about building scalable web apps and solving real-world problems with code. With 3+ years of hands-on experience, I’ve worked on multiple projects, taking ideas from zero to deployment.
+I'm a **Full-Stack Developer** and **Data Analyst** passionate about building scalable web apps and solving real-world problems with code. With 2+ years of hands-on experience, I’ve worked on multiple projects, taking ideas from zero to deployment.
 
 ---
 
