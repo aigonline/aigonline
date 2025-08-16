@@ -71,7 +71,7 @@ Python-based analysis and prediction models using real-world datasets.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aliyu-garba-a17830194)  
 - ✉️ aliyuib88@gmail.com  
-- 🌐 [Deployed Projects] (https://www.aig-portfolio.vercel.app)
+- 🌐 [Deployed Projects](https://www.aig-portfolio.vercel.app)
 
 ---
 
