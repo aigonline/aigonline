@@ -10,7 +10,7 @@ I'm a **Full-Stack Developer** and **Data Analyst** passionate about building sc
 - **Backend:** Node.js, Express, Python (Flask), Supabase, REST APIs, GraphQL
 - **Database:** MongoDB, PostgreSQL, MySQL  
 - **Data:** Python (Pandas, NumPy, Seaborn), Excel, Power BI, Tableau, R  
-- **Auth:** JWT, bcrypt, Supabase Auth, 
+- **Auth:** JWT, bcrypt, Supabase Auth
 - **CI/CD:** Render, vercel, CI/CD via Github Actions
 - **Extras:** UI/UX (canva, Moqups), Basic CMS (wordpress), Vite, Webpack
 
@@ -53,14 +53,16 @@ Built a complete e-commerce backend with product management, orders, and secure 
 ### 📊 **Real Estate & Weather Prediction ML Projects**  
 Python-based analysis and prediction models using real-world datasets.  
 **Tools:** Pandas, Scikit-learn, Matplotlib
-
+2+ more in development...
 ---
 
 ## 🧩 Certifications & Experience
 
 - 🎓 IBM & Google Data Analytics/Python Certs  
+- 💼 Upwork (Graphics designer/Web developer, 3 years)  
+- 💼 ITExperience Inc (Data Analyst Intern, 9 months)
 - 💼 Galaxy Backbone (IT Intern, 3 months)  
-- 💼 ITExperience Inc (Data Analyst Intern, 9 months)  
+- 💼 GMT Software Solutions Limited (Web development Instructor, 3 Weeks)
 - 📚 BSc in Computer Science
 - 📚 Professional Diploma in Data Analytics
 ---
@@ -69,7 +71,7 @@ Python-based analysis and prediction models using real-world datasets.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aliyu-garba-a17830194)  
 - ✉️ aliyuib88@gmail.com  
-- 🌐 Portfolio coming soon!
+- 🌐 [Deployed Projects] (https://www.aig-portfolio.vercel.app)
 
 ---
 
