@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aliyu Garba
 
 I'm a **Full-Stack Developer** and **Data Analyst** passionate about building scalable web apps and solving real-world problems with code. With 3+ years of relevant hands-on experience, I’ve worked on multiple projects, taking ideas from zero to deployment.
-
+- 🌐 [Deployed Projects](https://www.aig-portfolio.vercel.app)
 ---
 
 ## 💻 What I Do
@@ -50,10 +50,12 @@ Built a complete e-commerce backend with product management, orders, and secure 
 **Frontend:** Next.js, Tailwind CSS, ShadCN UI 
 **Features:** cart system, Bidding, Watchlisting, Checkout etc
 
+- 2+ more in development..
+  
 ### 📊 **Real Estate & Weather Prediction ML Projects**  
 Python-based analysis and prediction models using real-world datasets.  
 **Tools:** Pandas, Scikit-learn, Matplotlib
-2+ more in development...
+
 ---
 
 ## 🧩 Certifications & Experience
@@ -71,7 +73,7 @@ Python-based analysis and prediction models using real-world datasets.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aliyu-garba-a17830194)  
 - ✉️ aliyuib88@gmail.com  
-- 🌐 [Deployed Projects](https://www.aig-portfolio.vercel.app)
+
 
 ---
 
