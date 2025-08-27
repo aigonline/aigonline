@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aliyu Garba
 
-I'm a **Full-Stack Developer** and **Data Analyst** passionate about building scalable web apps and solving real-world problems with code. With 3+ years of relevant hands-on experience, I’ve worked on multiple projects, taking ideas from zero to deployment.
+I'm a **Full-Stack Developer** and **Data Analyst** passionate about building scalable web apps and solving real-world problems with code. I’ve worked on multiple projects, taking ideas from zero to deployment.
 - 🌐 [Deployed Projects](https://www.aig-portfolio.vercel.app)
 ---
 
