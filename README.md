@@ -60,8 +60,7 @@ Python-based analysis and prediction models using real-world datasets.
 
 ## 🧩 Certifications & Experience
 
-- 🎓 IBM & Google Data Analytics/Python Certs  
-- 💼 Upwork (Graphics designer/Web developer, 3 years)  
+- 🎓 IBM & Google Data Analytics/Python Certs    
 - 💼 ITExperience Inc (Data Analyst Intern, 9 months)
 - 💼 Galaxy Backbone (IT Intern, 3 months)  
 - 💼 GMT Software Solutions Limited (Web development Instructor, 3 Weeks)
