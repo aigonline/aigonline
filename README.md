@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aliyu Garba
 
-I'm a **Full-Stack Developer** and **Data Analyst** passionate about building scalable web apps and solving real-world problems with code. I’ve worked on multiple projects, taking ideas from zero to deployment.
+I'm a junior **full stack developer and AI engineer**. I envision building systems that not only **solve problems** but do so **intelligently**.
 - 🌐 [Deployed Projects](https://www.aig-portfolio.vercel.app)
 ---
 
