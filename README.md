@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aliyu Garba
+# 👋 Hi, I'm Aliyu
 
 I'm a junior **full stack developer and AI engineer**. I envision building systems that not only **solve problems** but do so **intelligently**.
 - 🌐 [Deployed Projects](https://www.aig-portfolio.vercel.app)
