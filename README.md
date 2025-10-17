@@ -6,8 +6,8 @@ I'm a junior **full stack developer and AI engineer**. I envision building syste
 
 ## 💻 What I Do
 
-- **Frontend:** HTML, CSS, Tailwind, JavaScript, React, Vue, Next.js  
-- **Backend:** Node.js, Express, Python (Flask), Supabase, REST APIs, GraphQL
+- **Frontend:** HTML, CSS, Tailwind, JavaScript, , Vue  
+- **Backend:** Node.js, Express, Python (Flask) , REST APIs,
 - **Database:** MongoDB, PostgreSQL, MySQL  
 - **Data:** Python (Pandas, NumPy, Seaborn), Excel, Power BI, Tableau, R  
 - **Auth:** JWT, bcrypt, Supabase Auth
@@ -24,11 +24,6 @@ A full-stack platform where students upload, preview, comment on, and manage edu
 **Stack:** Node.js, Express, MongoDB, HTML/CSS/JS  
 **Features:** JWT auth, comments, file uploads, real-time updates, search/filter, profile management
 
-### 🎨 **Blueprint** – AI-Powered Design Tool  - (in development)
-An intelligent design platform that lets users generate stunning graphics from text prompts using generative AI.  
-**Stack:** Next.js, React, Tailwind CSS, ShadCN UI, Genkit (Google Gemini) 
-**Features:** AI layout generation, dynamic canvas, template & element libraries, JSON export, secure auth
-
 ### 📈 **StartupConnect** – Startup-Investor Matching Platform  
 Connects startups with investors using VC-inspired logic to improve fundraising access.  
 **Stack:** HTML/JS, Tailwind CSS, Node.js, Chart.js, MongoDB  
@@ -38,34 +33,11 @@ Connects startups with investors using VC-inspired logic to improve fundraising 
 A multilingual education platform focused on Hausa language support and resource accessibility.  
 **Stack:** HTML/JS, Tailwind, Mongo DB, Node.js, REST APIs  
 **Features:** Auth, course management, assignments, discussions, Hausa localization
-
-### 💡 CodePilot – AI Development Assistant  (in development)
-An intelligent coding assistant that transforms natural language prompts into high-quality, multi-language code snippets in real-time.  
-**Stack:** Next.js, React, Tailwind CSS, ShadCN UI, Genkit (Google Gemini)  
-**Features:** AI code generation, real-time streaming output, interactive preview, multi-language support, snippet history, modern SaaS UI
-
-### 🛒 **Ebay Clone**  - (in development)
-Built a complete e-commerce backend with product management, orders, and secure APIs.  
-**Stack:** Supabase, Supabase Auth, PostgreSQL DB, Payment API   
-**Frontend:** Next.js, Tailwind CSS, ShadCN UI 
-**Features:** cart system, Bidding, Watchlisting, Checkout etc
-
-- 2+ more in development..
   
 ### 📊 **Real Estate & Weather Prediction ML Projects**  
 Python-based analysis and prediction models using real-world datasets.  
 **Tools:** Pandas, Scikit-learn, Matplotlib
 
----
-
-## 🧩 Certifications & Experience
-
-- 🎓 IBM & Google Data Analytics/Python Certs    
-- 💼 ITExperience Inc (Data Analyst Intern, 9 months)
-- 💼 Galaxy Backbone (IT Intern, 3 months)  
-- 💼 GMT Software Solutions Limited (Web development Instructor, 3 Weeks)
-- 📚 BSc in Computer Science
-- 📚 Professional Diploma in Data Analytics
 ---
 
 ## 📬 Get in Touch
